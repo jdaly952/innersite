@@ -1,8 +1,19 @@
+# Secrets & Environment
 .env
+.env.local
+.env.*.local
 *.pem
 *.key
+
+# Dependencies
 node_modules/
 dist/
 build/
+
+# Logs & Temp
 *.log
 .DS_Store
+
+# IDE
+.vscode/
+.idea/
