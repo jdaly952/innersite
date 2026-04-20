@@ -1,0 +1,11 @@
+{
+  "protocol": "INNERSITE",
+  "version": "1.0.0",
+  "logic_gate": "3-6-9",
+  "states": {
+    "3": "Inner_Sovereignty",
+    "6": "Site_Audit",
+    "9": "Insight_Finality"
+  },
+  "anchor_fee": "9.00 USD"
+}
