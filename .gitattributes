@@ -1,0 +1,8 @@
+# Force Unix line endings
+* text=auto eol=lf
+
+# Mark data/binary files
+*.png binary
+*.jpg binary
+*.pdf binary
+*.json text
