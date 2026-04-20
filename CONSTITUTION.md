@@ -10,4 +10,4 @@ Article III: Equity
 INNERSITE has no traditional equity. Ownership is expressed through 369 'Architect Keys.' Key holders provide 'Resonance Auditing' and receive protocol fees.
 
 Article IV: Sovereignty
-The Association shall never claim ownership over user data. [cite_start]Users retain exclusive control of their private keys and fingerprints. [cite: 16, 121]
+The Association shall never claim ownership over user data. Users retain exclusive control of their private keys and fingerprints.
